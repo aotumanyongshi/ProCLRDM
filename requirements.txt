@@ -1,0 +1,19 @@
+You need to configure the following environment before running the ProCLRDM model. It should be noted that this project is carried out in the Windows system, if you are using Linux system, We hope you can install the corresponding environment version yourself.
+
+Windows system
+NVIDIA GeForce RTX 3090
+PyCharm 2020
+Python 3.10
+torch==2.7.1
+einops==0.8.1
+numpy==1.25.2
+pandas==2.3.0
+scipy==1.9.3
+matplotlib==3.10.3
+seaborn==0.13.2
+logomaker==0.8.7
+umap-learn==0.5.9.post2
+tqdm==4.67.1
+PyYAML==6.0.2
+filelock==3.18.0
+fsspec==2025.5.1

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sjy@connect.cqa1.seetacloud.com:29399" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="111">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dachang1/data" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sjy@connect.cqa1.seetacloud.com:29399">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/sjy/dachang1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
