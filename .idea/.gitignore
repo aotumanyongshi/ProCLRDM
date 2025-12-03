@@ -6,3 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+.idea/  # 忽略PyCharm的本地配置文件夹
+# 忽略data文件夹下的模型文件
+data/best_model_overall.pth
+# （可选）如果有多个模型文件，可写为 data/*.pth
